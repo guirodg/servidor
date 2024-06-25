@@ -2503,15 +2503,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
+      "has_peony": "2024-06-25 17:28:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-06-25 17:31:46 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2024-06-25 17:35:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-25 17:35:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-06-25 17:43:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-06-25 17:43:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-06-25 18:33:17 -0300"
     },
     "done": true
   },
@@ -2539,33 +2569,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2024-06-25 19:03:33 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-06-25 18:33:17 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-06-25 18:44:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2024-06-25 19:03:33 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
     },
     "done": true
   },
@@ -2581,39 +2587,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-06-25 19:33:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-06-25 17:43:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-25 18:44:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-06-25 17:31:46 -0300"
     },
     "done": true
   },
@@ -2629,33 +2605,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-25 18:44:26 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_blaze_rod": "2024-06-25 19:33:50 -0300"
+      "has_blackstone": "2024-06-25 18:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-06-25 18:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-06-25 18:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-06-25 18:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-06-25 18:44:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-06-25 19:03:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-06-25 19:03:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-06-25 19:31:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-06-25 19:31:13 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-06-25 19:31:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-06-25 18:44:26 -0300"
     },
     "done": true
   },
@@ -2671,63 +2707,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-06-25 18:44:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-06-25 17:43:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2024-06-25 17:28:13 -0300"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-06-25 19:31:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-06-25 18:44:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-06-25 19:33:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2024-06-25 17:35:09 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-06-25 19:31:13 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_blackstone": "2024-06-25 18:44:26 -0300"
+      "blaze_rod": "2024-06-25 19:33:50 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_blackstone": "2024-06-25 18:44:26 -0300"
+      "has_blaze_rod": "2024-06-25 19:33:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-06-25 19:33:50 -0300"
     },
     "done": true
   },

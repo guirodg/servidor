@@ -1,64 +1,24 @@
-[15:34:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:34:08] [ServerMain/INFO]: Loaded 1290 recipes
-[15:34:08] [ServerMain/INFO]: Loaded 1399 advancements
-[15:34:09] [Server thread/INFO]: Starting minecraft server version 1.21
-[15:34:09] [Server thread/INFO]: Loading properties
-[15:34:09] [Server thread/INFO]: Default game type: SURVIVAL
-[15:34:09] [Server thread/INFO]: Generating keypair
-[15:34:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:34:09] [Server thread/INFO]: Using default channel type
-[15:34:09] [Server thread/INFO]: Preparing level "world"
-[15:34:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:34:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:34:10] [Server thread/INFO]: Time elapsed: 350 ms
-[15:34:10] [Server thread/INFO]: Done (1.187s)! For help, type "help"
-[15:36:54] [User Authenticator #1/INFO]: UUID of player GuiRodrigueess is a741cd3c-1784-4772-962b-a43751456018
-[15:36:55] [Server thread/INFO]: GuiRodrigueess[/26.219.64.148:65022] logged in with entity id 87 at (45.8138603970502, 65.5, 24.025542026955463)
-[15:36:55] [Server thread/INFO]: GuiRodrigueess joined the game
-[15:45:57] [User Authenticator #2/INFO]: UUID of player Manduba is c24ecc2e-8207-4e8f-a7d9-1f6801904ba1
-[15:45:57] [Server thread/INFO]: Manduba[/26.143.129.170:52447] logged in with entity id 2151 at (52.0518578755428, 64.0, 17.438364340528356)
-[15:45:57] [Server thread/INFO]: Manduba joined the game
-[16:23:51] [Server thread/INFO]: [GuiRodrigueess: Gave 10 [Oak Planks] to GuiRodrigueess]
-[16:38:38] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Cobblestone] to GuiRodrigueess]
-[17:06:46] [Server thread/INFO]: GuiRodrigueess lost connection: Disconnected
-[17:06:46] [Server thread/INFO]: GuiRodrigueess left the game
-[17:16:48] [User Authenticator #3/INFO]: UUID of player GuiRodrigueess is a741cd3c-1784-4772-962b-a43751456018
-[17:16:48] [Server thread/INFO]: GuiRodrigueess[/26.219.64.148:56625] logged in with entity id 12428 at (137.3292814833, 14.0, 40.968219814280765)
-[17:16:48] [Server thread/INFO]: GuiRodrigueess joined the game
-[17:28:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=80, y=63, z=-14} jd{x=78, y=67, z=-30}
-[17:52:45] [Server thread/INFO]: Manduba fell from a high place
-[18:02:20] [Server thread/INFO]: Manduba was slain by Cave Spider
-[18:02:21] [Server thread/WARN]: Manduba moved too quickly! -86.8394533004257,44.0,-14.128054794828174
-[18:03:17] [Server thread/INFO]: Manduba was slain by Cave Spider
-[18:03:20] [Server thread/WARN]: Manduba moved too quickly! -84.75933805097739,44.0,-12.389872585530682
-[18:16:51] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Zombie Horse Spawn Egg] to GuiRodrigueess]
-[18:17:17] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Zombie Horse Spawn Egg] to GuiRodrigueess]
-[18:35:42] [Server thread/INFO]: Manduba burned to death
-[18:37:00] [Server thread/INFO]: Manduba tried to swim in lava
-[18:40:35] [Server thread/INFO]: Manduba was slain by Piglin
-[18:50:12] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[19:03:33] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Gold Ore] to GuiRodrigueess]
-[19:04:00] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Gold Ingot] to GuiRodrigueess]
-[19:18:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=12, y=77, z=8} jd{x=11, y=76, z=8}
-[19:18:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=12, y=77, z=8} jd{x=11, y=76, z=8}
-[19:18:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=12, y=77, z=8} jd{x=11, y=76, z=8}
-[19:21:24] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Torch] to GuiRodrigueess]
-[19:21:48] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[19:23:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=81, z=11} jd{x=131, y=84, z=15}
-[19:23:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=81, z=11} jd{x=131, y=84, z=15}
-[19:23:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=81, z=11} jd{x=131, y=84, z=15}
-[19:23:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=81, z=11} jd{x=131, y=84, z=15}
-[19:23:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=104, y=81, z=11} jd{x=131, y=84, z=15}
-[19:23:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=152, y=83, z=15} jd{x=152, y=84, z=15}
-[19:23:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=152, y=83, z=15} jd{x=152, y=84, z=15}
-[19:23:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=152, y=83, z=15} jd{x=152, y=84, z=15}
-[19:23:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=152, y=83, z=15} jd{x=152, y=84, z=15}
-[19:31:04] [Server thread/INFO]: Manduba has made the advancement [A Terrible Fortress]
-[19:31:04] [Server thread/INFO]: GuiRodrigueess has made the advancement [A Terrible Fortress]
-[19:33:50] [Server thread/INFO]: GuiRodrigueess has made the advancement [Into Fire]
-[19:35:16] [Server thread/INFO]: Manduba has made the advancement [Into Fire]
-[19:42:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-19, y=83, z=15} jd{x=-19, y=85, z=20}
-[20:13:10] [Server thread/INFO]: GuiRodrigueess lost connection: Disconnected
-[20:13:10] [Server thread/INFO]: GuiRodrigueess left the game
-[20:13:20] [Server thread/INFO]: Manduba lost connection: Disconnected
-[20:13:20] [Server thread/INFO]: Manduba left the game
+[20:53:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:53:03] [ServerMain/INFO]: Loaded 1290 recipes
+[20:53:03] [ServerMain/INFO]: Loaded 1399 advancements
+[20:53:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:53:04] [Server thread/INFO]: Loading properties
+[20:53:04] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:04] [Server thread/INFO]: Generating keypair
+[20:53:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:04] [Server thread/INFO]: Using default channel type
+[20:53:04] [Server thread/INFO]: Preparing level "world"
+[20:53:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:53:05] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:53:05] [Server thread/INFO]: Time elapsed: 390 ms
+[20:53:05] [Server thread/INFO]: Done (1.263s)! For help, type "help"
+[20:53:41] [User Authenticator #1/INFO]: UUID of player Manduba is c24ecc2e-8207-4e8f-a7d9-1f6801904ba1
+[20:53:41] [Server thread/INFO]: Manduba[/26.143.129.170:54083] logged in with entity id 86 at (47.06293245153811, 64.0, 21.23898572663474)
+[20:53:41] [Server thread/INFO]: Manduba joined the game
+[20:53:47] [User Authenticator #2/INFO]: UUID of player GuiRodrigueess is a741cd3c-1784-4772-962b-a43751456018
+[20:53:48] [Server thread/INFO]: GuiRodrigueess[/26.219.64.148:62734] logged in with entity id 454 at (48.969246297971395, 64.0, 21.80857777734431)
+[20:53:48] [Server thread/INFO]: GuiRodrigueess joined the game
+[20:54:16] [Server thread/INFO]: Manduba lost connection: Disconnected
+[20:54:16] [Server thread/INFO]: Manduba left the game
+[20:54:18] [Server thread/INFO]: GuiRodrigueess lost connection: Disconnected
+[20:54:18] [Server thread/INFO]: GuiRodrigueess left the game
