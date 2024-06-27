@@ -7,15 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-06-25 17:34:21 -0300",
       "minecraft:beach": "2024-06-21 12:40:06 -0300",
       "minecraft:forest": "2024-06-19 13:39:11 -0300",
       "minecraft:sparse_jungle": "2024-06-25 17:34:52 -0300",
-      "minecraft:ocean": "2024-06-21 12:48:26 -0300",
       "minecraft:river": "2024-06-19 15:50:26 -0300",
+      "minecraft:lukewarm_ocean": "2024-06-26 20:12:52 -0300",
+      "minecraft:dripstone_caves": "2024-06-19 16:27:23 -0300",
+      "minecraft:old_growth_birch_forest": "2024-06-25 17:34:21 -0300",
+      "minecraft:ocean": "2024-06-21 12:48:26 -0300",
+      "minecraft:jungle": "2024-06-26 18:03:01 -0300",
+      "minecraft:sunflower_plains": "2024-06-26 18:12:04 -0300",
       "minecraft:meadow": "2024-06-25 19:11:51 -0300",
       "minecraft:birch_forest": "2024-06-19 17:52:29 -0300",
-      "minecraft:dripstone_caves": "2024-06-19 16:27:23 -0300",
       "minecraft:savanna": "2024-06-19 20:12:55 -0300",
       "minecraft:plains": "2024-06-19 19:46:58 -0300"
     },
@@ -220,14 +223,17 @@
       "minecraft:skeleton": "2024-06-19 16:45:40 -0300",
       "minecraft:phantom": "2024-06-21 23:38:38 -0300",
       "minecraft:zombified_piglin": "2024-06-21 20:16:50 -0300",
+      "minecraft:wither_skeleton": "2024-06-26 18:43:43 -0300",
       "minecraft:hoglin": "2024-06-21 21:12:35 -0300",
       "minecraft:cave_spider": "2024-06-25 15:59:55 -0300",
       "minecraft:piglin": "2024-06-21 15:45:29 -0300",
+      "minecraft:silverfish": "2024-06-26 19:39:37 -0300",
       "minecraft:magma_cube": "2024-06-21 21:23:59 -0300",
       "minecraft:spider": "2024-06-19 16:29:16 -0300",
       "minecraft:zombie": "2024-06-19 16:29:25 -0300",
       "minecraft:creeper": "2024-06-19 17:33:27 -0300",
-      "minecraft:drowned": "2024-06-19 15:52:50 -0300"
+      "minecraft:drowned": "2024-06-19 15:52:50 -0300",
+      "minecraft:zombie_villager": "2024-06-26 18:08:35 -0300"
     },
     "done": false
   },
@@ -326,6 +332,7 @@
       "cooked_porkchop": "2024-06-19 17:04:01 -0300",
       "apple": "2024-06-19 16:17:25 -0300",
       "chicken": "2024-06-19 16:04:41 -0300",
+      "cooked_chicken": "2024-06-26 20:26:39 -0300",
       "rotten_flesh": "2024-06-19 19:19:24 -0300",
       "cooked_mutton": "2024-06-19 17:26:24 -0300",
       "cooked_beef": "2024-06-19 16:18:33 -0300",
@@ -2728,6 +2735,210 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-06-25 19:33:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-06-26 17:53:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-06-26 17:53:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-06-26 18:08:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-06-26 18:08:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-26 18:09:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-06-26 18:16:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-06-26 18:35:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-26 18:47:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-26 18:47:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-06-26 18:47:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-26 19:26:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-06-26 19:31:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-26 19:31:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-06-26 19:31:02 -0300"
     },
     "done": true
   },
