@@ -1,73 +1,19 @@
-[12:34:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:34:26] [ServerMain/INFO]: Loaded 1290 recipes
-[12:34:26] [ServerMain/INFO]: Loaded 1399 advancements
-[12:34:26] [Server thread/INFO]: Starting minecraft server version 1.21
-[12:34:26] [Server thread/INFO]: Loading properties
-[12:34:26] [Server thread/INFO]: Default game type: SURVIVAL
-[12:34:26] [Server thread/INFO]: Generating keypair
-[12:34:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:34:27] [Server thread/INFO]: Using default channel type
-[12:34:27] [Server thread/INFO]: Preparing level "world"
-[12:34:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:34:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[12:34:28] [Server thread/INFO]: Time elapsed: 409 ms
-[12:34:28] [Server thread/INFO]: Done (1.361s)! For help, type "help"
-[12:34:59] [User Authenticator #1/INFO]: UUID of player Manduba is c24ecc2e-8207-4e8f-a7d9-1f6801904ba1
-[12:35:00] [Server thread/INFO]: Manduba[/26.143.129.170:57479] logged in with entity id 83 at (74.32415899359403, 63.0, -0.16459136500003752)
-[12:35:00] [Server thread/INFO]: Manduba joined the game
-[12:59:40] [Server thread/INFO]: Manduba lost connection: Disconnected
-[12:59:40] [Server thread/INFO]: Manduba left the game
-[12:59:47] [User Authenticator #2/INFO]: UUID of player Manduba is c24ecc2e-8207-4e8f-a7d9-1f6801904ba1
-[12:59:47] [Server thread/INFO]: Manduba[/26.143.129.170:57581] logged in with entity id 5747 at (128.32150664368854, -42.0, -140.30000001192093)
-[12:59:47] [Server thread/INFO]: Manduba joined the game
-[17:40:33] [User Authenticator #3/INFO]: UUID of player GuiRodrigueess is a741cd3c-1784-4772-962b-a43751456018
-[17:40:33] [Server thread/INFO]: GuiRodrigueess[/26.219.64.148:53280] logged in with entity id 30168 at (80.80261867509861, 63.9375, -8.071072072659847)
-[17:40:33] [Server thread/INFO]: GuiRodrigueess joined the game
-[18:35:18] [Server thread/INFO]: GuiRodrigueess has made the advancement [Take Aim]
-[19:23:46] [Server thread/INFO]: Manduba has made the advancement [Eye Spy]
-[19:26:32] [Server thread/INFO]: GuiRodrigueess has made the advancement [Eye Spy]
-[19:47:29] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Cobblestone] to GuiRodrigueess]
-[19:47:58] [Server thread/INFO]: GuiRodrigueess lost connection: Disconnected
-[19:47:58] [Server thread/INFO]: GuiRodrigueess left the game
-[19:48:47] [User Authenticator #4/INFO]: UUID of player LauraBorgeess is 81b6e9cd-407f-4ae8-9de1-40d3d6579bc7
-[19:48:47] [Server thread/INFO]: LauraBorgeess[/26.247.188.124:61909] logged in with entity id 63285 at (-0.5, 75.0, 0.5)
-[19:48:47] [Server thread/INFO]: LauraBorgeess joined the game
-[19:48:55] [User Authenticator #5/INFO]: UUID of player GuiRodrigueess is a741cd3c-1784-4772-962b-a43751456018
-[19:48:56] [Server thread/INFO]: GuiRodrigueess[/26.219.64.148:56488] logged in with entity id 63665 at (1417.881871737861, 68.0, -951.3021365783469)
-[19:48:56] [Server thread/INFO]: GuiRodrigueess joined the game
-[19:55:36] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Oak Leaves] to GuiRodrigueess]
-[19:56:10] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Oak Wood] to GuiRodrigueess]
-[19:57:16] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[19:57:35] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Acacia Log] to GuiRodrigueess]
-[20:02:56] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Leather] to GuiRodrigueess]
-[20:04:47] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Saddle] to GuiRodrigueess]
-[20:10:41] [Server thread/INFO]: [GuiRodrigueess: Gave 1 [Oak Boat] to GuiRodrigueess]
-[20:17:51] [Server thread/INFO]: LauraBorgeess has made the advancement [Suit Up]
-[20:20:28] [Server thread/INFO]: LauraBorgeess has made the advancement [Acquire Hardware]
-[20:22:53] [Server thread/INFO]: LauraBorgeess has made the advancement [Isn't It Iron Pick]
-[20:25:06] [Server thread/INFO]: LauraBorgeess has made the advancement [We Need to Go Deeper]
-[20:25:40] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Gold Ingot] to GuiRodrigueess]
-[20:26:25] [Server thread/INFO]: LauraBorgeess has made the advancement [Monster Hunter]
-[20:28:25] [Server thread/INFO]: LauraBorgeess has made the advancement [Stone Age]
-[20:28:43] [Server thread/INFO]: LauraBorgeess has made the advancement [Who is Cutting Onions?]
-[20:30:39] [Server thread/INFO]: [GuiRodrigueess: Gave 5 [Eye of Ender] to GuiRodrigueess]
-[20:30:52] [Server thread/INFO]: LauraBorgeess has made the advancement [Ice Bucket Challenge]
-[20:37:23] [Server thread/INFO]: [GuiRodrigueess: Gave 6 [Flint] to GuiRodrigueess]
-[20:38:58] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[20:39:08] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[20:41:29] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Arrow] to GuiRodrigueess]
-[20:42:10] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Arrow] to GuiRodrigueess]
-[20:42:29] [Server thread/INFO]: LauraBorgeess has made the advancement [Take Aim]
-[20:43:44] [Server thread/INFO]: [GuiRodrigueess: Gave 17 [Steak] to GuiRodrigueess]
-[20:49:21] [Server thread/INFO]: LauraBorgeess has made the advancement [A Terrible Fortress]
-[20:49:35] [Server thread/INFO]: [GuiRodrigueess: Gave 8 [Ender Pearl] to GuiRodrigueess]
-[20:54:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=288, y=56, z=-113} jd{x=288, y=56, z=-112}
-[20:54:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=288, y=56, z=-113} jd{x=288, y=56, z=-112}
-[20:54:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=288, y=56, z=-113} jd{x=288, y=56, z=-112}
-[21:11:07] [Server thread/INFO]: [GuiRodrigueess: Gave 64 [Cobblestone] to GuiRodrigueess]
-[21:20:59] [Server thread/INFO]: Manduba lost connection: Disconnected
-[21:20:59] [Server thread/INFO]: Manduba left the game
-[21:21:10] [Server thread/INFO]: GuiRodrigueess lost connection: Disconnected
-[21:21:10] [Server thread/INFO]: GuiRodrigueess left the game
-[21:21:14] [Server thread/INFO]: LauraBorgeess lost connection: Disconnected
-[21:21:14] [Server thread/INFO]: LauraBorgeess left the game
+[09:22:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:22:17] [ServerMain/INFO]: Loaded 1290 recipes
+[09:22:17] [ServerMain/INFO]: Loaded 1399 advancements
+[09:22:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[09:22:18] [Server thread/INFO]: Loading properties
+[09:22:18] [Server thread/INFO]: Default game type: SURVIVAL
+[09:22:18] [Server thread/INFO]: Generating keypair
+[09:22:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:22:18] [Server thread/INFO]: Using default channel type
+[09:22:18] [Server thread/INFO]: Preparing level "world"
+[09:22:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:22:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[09:22:19] [Server thread/INFO]: Time elapsed: 394 ms
+[09:22:19] [Server thread/INFO]: Done (1.226s)! For help, type "help"
+[09:22:48] [User Authenticator #1/INFO]: UUID of player Manduba is c24ecc2e-8207-4e8f-a7d9-1f6801904ba1
+[09:22:49] [Server thread/INFO]: Manduba[/26.143.129.170:51434] logged in with entity id 74 at (48.61218431829, 64.0, 17.72136648413109)
+[09:22:49] [Server thread/INFO]: Manduba joined the game
+[11:00:43] [Server thread/INFO]: Manduba lost connection: Disconnected
+[11:00:43] [Server thread/INFO]: Manduba left the game
